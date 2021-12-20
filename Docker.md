@@ -2,7 +2,7 @@
 
 Container pada docker adalah sebagai wadah yang bertujuan untuk mengemas juga menjalankan aplikasi. Wadah ini mencakup kode, runtime, system tools, dan pengaturan. Container juga hanya bisa mengakses resource yang telah ditentukan dalam Docker image
 
-# 2. Jelaskan apa perbedaan antara konsep container dengan virtual machine !
+<b> 2. Jelaskan apa perbedaan antara konsep container dengan virtual machine ! </b>
 
 Container dapat berjalan langsung diatas sistem operasi dan container sendiri tidak diizinkan untuk mengakses kernel. sedangkan virtual machine menggunakan kernel tersendiri untuk menjalankan aplikasi didalamnya
 
